@@ -1,0 +1,3 @@
+C:/Users/mengz/CLionProjects/scanhost/cmake-build-debug/CMakeFiles/scanhost.dir
+C:/Users/mengz/CLionProjects/scanhost/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mengz/CLionProjects/scanhost/cmake-build-debug/CMakeFiles/rebuild_cache.dir

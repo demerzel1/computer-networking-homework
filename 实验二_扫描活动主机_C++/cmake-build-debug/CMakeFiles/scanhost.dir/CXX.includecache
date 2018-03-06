@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mengz/CLionProjects/scanhost/scanhost.cpp
+scanhost.h
+C:/Users/mengz/CLionProjects/scanhost/scanhost.h
+
+C:/Users/mengz/CLionProjects/scanhost/scanhost.h
+winsock2.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+sys/timeb.h
+-
+time.h
+-
+
